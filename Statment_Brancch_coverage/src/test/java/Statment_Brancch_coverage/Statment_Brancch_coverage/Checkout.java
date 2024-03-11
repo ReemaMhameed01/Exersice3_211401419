@@ -4,7 +4,7 @@ import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
 
-public class TestCheckout {
+public class Checkout {
 	@Test
 	public void testcheckOut1() {
 		double cart=2500;

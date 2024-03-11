@@ -7,7 +7,7 @@ import org.junit.runners.Suite;
 
 @Suite.SuiteClasses({
 	//testweakmethod4A.class,
-	TestCheckout.class,
+	WeakMethod4b.class,
 })
 public class TestSuite{
 	

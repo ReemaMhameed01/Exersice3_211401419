@@ -2,10 +2,10 @@ package Statment_Brancch_coverage.Statment_Brancch_coverage;
 
 import org.junit.Test;
 
-public class TestWeakMethod2 {
+public class WeakMethod1 {
 	 @Test(expected=java.lang.ArithmeticException.class)
-	    public void TestWeakMethod_2() {
+	    public void TestWeakMethod_1() {
 	    	
-	         WeakClass.weakMethod2(12,0); //Division by zero
+	         WeakClass.weakMethod1(20,0); //Division by zero
 	    }
 }
